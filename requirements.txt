@@ -1,0 +1,12 @@
+# SimpleNotepad 의존성 패키지
+
+# 기본 Python 라이브러리 (tkinter는 Python 기본 포함)
+# 별도 설치 불필요
+
+# 빌드 도구 (선택사항)
+pyinstaller>=5.0.0
+
+# 개발 도구 (선택사항)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0 
