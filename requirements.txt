@@ -3,6 +3,10 @@
 # 기본 Python 라이브러리 (tkinter는 Python 기본 포함)
 # 별도 설치 불필요
 
+# 마크다운 관련
+markdown2>=2.4.0
+tkhtmlview>=0.2.0
+
 # 빌드 도구 (선택사항)
 pyinstaller>=5.0.0
 
@@ -10,3 +14,8 @@ pyinstaller>=5.0.0
 pytest>=7.0.0
 black>=22.0.0
 flake8>=5.0.0 
+
+# Windows 다크모드 감지 (선택사항)
+# pywin32는 Windows에서만 설치 가능
+# pip install pywin32
+# pywin32==306
