@@ -6,6 +6,7 @@
 # 마크다운 관련
 markdown2>=2.4.0
 tkhtmlview>=0.2.0
+PySide6>=6.0.0
 
 # 빌드 도구 (선택사항)
 pyinstaller>=5.0.0
